@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Jasperserver BI tool deployement**
 
-- 🌱 I’m currently learning **Java, Spring, DevOps**
+- 🌱 I’m currently learning **Java, Spring boot, DevOps**
 
 - 🤝 I’m looking for help with **Projects**
 
-- 💬 Ask me about **Java, Devops, AWS, Linux**
+- 💬 Ask me about **Java, Devops, AWS, Linux, DevOps, Kubernetes, Ansible, Jenkins, Terraform**
 
 - 📫 How to reach me **swapniltanajipawar@gmail.com**
 
