@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Projects**
 
-- 💬 Ask me about **Java, Devops, AWS, Linux, DevOps, Kubernetes, Ansible, Jenkins, Terraform**
+- 💬 Ask me about **Java, AWS, Linux, DevOps, Kubernetes, Ansible, Jenkins, Terraform**
 
 - 📫 How to reach me **swapniltanajipawar@gmail.com**
 
