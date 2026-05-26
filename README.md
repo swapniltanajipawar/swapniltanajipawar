@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Jasperserver BI tool deployement**
 
-- 🌱 I’m currently learning **Java, Spring boot, DevOps**
-
-- 🤝 I’m looking for help with **Projects**
+- 🌱 I’m currently working **Java, Spring boot, DevOps, AI**
 
 - 💬 Ask me about **Java, AWS, Linux, DevOps, Kubernetes, Ansible, Jenkins, Terraform**
 
